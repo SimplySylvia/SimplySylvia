@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [React Code Space](https://github.com/DaltonHart/React-Code-Space)
 
-- 👯 I’m looking to collaborate on **Anything that need UI! **
+- 👯 I’m looking to collaborate on **Anything that needs UI!**
 
 - 🤔 I’m looking for help with **growing my self as a developer.**
 
