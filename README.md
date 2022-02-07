@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **daltonhart.j@gmail.com**
 
-- 😄 Pronouns: **He/Him + She/Her** 
+- 😄 Pronouns: **She/They** 
 
 <p align="center">
 <a href=https://codepen.io/daltonh target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg alt="daltonh" height="20" width="20" /></a>
