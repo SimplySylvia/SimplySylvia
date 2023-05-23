@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on [React Code Space](https://github.com/DaltonHart/React-Code-Space) && [The Breach](https://github.com/Strange-Hour/The-Breach)
 
-- 👯 I’m looking to collaborate on **Anything that needs UI/UX!** or **Development Tooling**
+- 👯 I’m looking to collaborate on **Anything that needs UI/UX!** or **Development Tooling** or **Game Development**
 
-- 🤔 I’m looking for help with **growing my self as a developer.**
+- 🤔 I’m looking for help with **building fun things** so if you have anything cool let me know! 
 
-- 💬 Ask me about **React, UI, Teaching**
+- 💬 Ask me about **React, UI, Teaching, Game Development**
 
 - 📫 How to reach me **daltonhart.j@gmail.com**
 
-- 😄 Pronouns: **She/They** 
+- 😄 Pronouns: **She/They** Proudly 🏳️‍⚧️
 
 <p align="center">
 <a href=https://codepen.io/daltonh target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg alt="daltonh" height="20" width="20" /></a>
