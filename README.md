@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dalton!</h1>
+<h1 align="center">Hi 👋, I'm Sylvia!</h1>
 <h3 align="center">I am a developer and an educator that specializes in UI and developer tools. When I am not programming and learning, I am teaching others. Feel free to come chat and learn with me anytime! </h3>
 
 - 🔭 I’m currently working on [React Code Space](https://github.com/DaltonHart/React-Code-Space) && [The Breach](https://github.com/Strange-Hour/The-Breach)
