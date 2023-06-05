@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, UI, Teaching, Game Development**
 
-- 📫 How to reach me **daltonhart.j@gmail.com**
+- 📫 How to reach me **sylvia.the.dev@gmail.com**
 
 - 😄 Pronouns: **She/They** Proudly 🏳️‍⚧️
 
